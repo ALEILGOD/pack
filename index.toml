@@ -16,6 +16,11 @@ hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "23291e2fb4b1fd48cbfc28ec2e50a76a3d908c4477e6164698406a4c953935ae"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "082e160d35b0104f26309b719bd1086556157dc286d80aad758c1450c889cea3"
 metafile = true
