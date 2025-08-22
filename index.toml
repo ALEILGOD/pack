@@ -46,6 +46,11 @@ hash = "5a19862b43455c1d370f9f54b4185660d2cba9d48597f7270d9b22c83952d7ed"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "033965cc4d3b58e2765c3a712ca8a226663ffae25eee8d3b81f72ed84cc5e484"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/irons-jewelry.pw.toml"
 hash = "0ecd5f852e626f8069b53f90a1b1bf72421a2661f766283f2ad70c4b6dc4c248"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "e580ccac13194b169550a87e3b4f2c03dc0e9a3f38cba6c93738a4cb0c8ff853"
 metafile = true
 
 [[files]]
@@ -93,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "c5ca38fd4e54c1c59f0caa0b696da20186eb6484432804012557a01af9948457"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "58fe862ac2e8f705d8d611e4dfc49a85c4391f60981120949d7a2a772b1e96cc"
 metafile = true
 
 [[files]]
