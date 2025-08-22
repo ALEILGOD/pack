@@ -46,6 +46,11 @@ hash = "b9090a935074a40d4ba818073fdd0af6afcf0e06961dddfee859383a064c6995"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "3d82787d8d5cd96176873b98f7f964e45fb1d99fcb0038bc97f966565b25554b"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "082e160d35b0104f26309b719bd1086556157dc286d80aad758c1450c889cea3"
 metafile = true
