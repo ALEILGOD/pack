@@ -26,6 +26,11 @@ hash = "5a19862b43455c1d370f9f54b4185660d2cba9d48597f7270d9b22c83952d7ed"
 metafile = true
 
 [[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "ed87aab7a4facec748eaa4c156b1a5b55bef3d830a117d2cc3db0cfed32463fe"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
