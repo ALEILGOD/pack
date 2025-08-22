@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/atlas-api.pw.toml"
+hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
 
 [[files]]
@@ -13,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -38,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/irons-jewelry.pw.toml"
+hash = "0ecd5f852e626f8069b53f90a1b1bf72421a2661f766283f2ad70c4b6dc4c248"
 metafile = true
 
 [[files]]
@@ -68,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "082e160d35b0104f26309b719bd1086556157dc286d80aad758c1450c889cea3"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "c5ca38fd4e54c1c59f0caa0b696da20186eb6484432804012557a01af9948457"
 metafile = true
 
 [[files]]
