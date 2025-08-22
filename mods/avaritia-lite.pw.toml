@@ -1,0 +1,13 @@
+name = "Avaritia Lite"
+filename = "avaritialite-neoforge-1.21.1-1.10.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c2d3249f8882452a69f3adb3348f6b89e7430a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5891220
+project-id = 430116
