@@ -46,6 +46,11 @@ hash = "2c50b8333ac6557bf65aef87110d8ab234bc9143e5d3065af913dc3dd7b1092e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "726b14494232ae10c257d3d96ff56e7f1814063b499057e7051d57055a2f4e9f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "5a19862b43455c1d370f9f54b4185660d2cba9d48597f7270d9b22c83952d7ed"
 metafile = true
